@@ -320,16 +320,24 @@ h1 span{
     /*width: 577px;
     height: 433px;*/
     transform: scale(0.7);
-    left: -75px;
+    left: -70px;
     top: 138px;
 }
 
+/*body{
+    background-repeat: no-repeat;
+}*/
+
 h1{
-    left: 6px;
+    left: 2px;
     font-size: 55px;
     line-height: 60px;
     top: 680px;
     position: absolute;
+    width: 377px;
+    text-align: center;
+
+
 }
 
 .btn1{
@@ -348,6 +356,7 @@ h1{
     background-size: cover;
     background-repeat: repeat;
 }
+
 
 .circle1{
     left: 100px;
