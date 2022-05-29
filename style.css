@@ -294,7 +294,7 @@ h1 span{
     position: absolute;
     width: 32px;
     height: 32px;
-    left: 100px;
+    left: 105px;
     top: 218px;
 
 }
@@ -303,7 +303,7 @@ h1 span{
     position: absolute;
     width: 32px;
     height: 32px;
-    left: 160px;
+    left: 165px;
     top: 218px;
 }
 
@@ -311,7 +311,7 @@ h1 span{
     position: absolute;
     width: 32px;
     height: 32px;
-    left: 220px;
+    left: 225px;
     top: 218px;
 }
 
@@ -319,9 +319,9 @@ h1 span{
     position: absolute;
     /*width: 577px;
     height: 433px;*/
-    transform: scale(0.7);
-    left: -70px;
-    top: 138px;
+    transform: scale(0.6);
+    left: -35px;
+    top: 148px;
 }
 
 /*body{
@@ -332,7 +332,7 @@ h1{
     left: 2px;
     font-size: 55px;
     line-height: 60px;
-    top: 680px;
+    top: 600px;
     position: absolute;
     width: 377px;
     text-align: center;
@@ -341,14 +341,14 @@ h1{
 }
 
 .btn1{
-    left: 180px;
-    top: 880px;
+    left: 190px;
+    top: 820px;
     position: absolute;
 }
 
 .btn2{
-    left: 6px;
-    top: 880px;
+    left: 15px;
+    top: 820px;
     position: absolute;
 }
 
@@ -359,28 +359,28 @@ h1{
 
 
 .circle1{
-    left: 100px;
-    top: 960px;
+    left: 105px;
+    top: 910px;
     position: absolute;
 }
 
 .circle2{
-    left: 160px;
-    top: 960px;
+    left: 165px;
+    top: 910px;
     position: absolute;
 }
 
 .circle3{
-    left: 220px;
-    top: 960px;
+    left: 225px;
+    top: 910px;
     position: absolute;
 }
 
 
 .scroll{ 
     position: absolute;
-    left: 80px;
-    top: 1016px;
+    left: 90px;
+    top: 990px;
 
 }
 }
